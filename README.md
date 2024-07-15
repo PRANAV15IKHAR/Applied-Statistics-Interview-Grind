@@ -1,8 +1,9 @@
 <!-- PROJECT LOGO -->
+![Applied_Statistics_4ed1a3c88a](https://github.com/user-attachments/assets/427cbaa9-a3d2-48e8-87af-1c6488be765f)
+
 <br/>
 <div align="center">
   <a href="https://github.com/PRANAV15IKHAR/Applied-Statistics-Interview-Grind/blob/main/Capstone_Project_Applied_Statistics.ipynb">
-   ![Applied_Statistics_4ed1a3c88a](https://github.com/user-attachments/assets/f3733f98-fd3c-46ee-b11b-efec5546ac33)
 
   </a>
 
